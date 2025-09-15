@@ -7,7 +7,6 @@
 Building real-time data systems • serverless backends • React dashboards
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohan--bahl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-bahl)
-[![GitHub](https://img.shields.io/badge/GitHub-RB9823-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RB9823)
 [![Email](https://img.shields.io/badge/Email-rohan_bahl%40u.nus.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohan_bahl@u.nus.edu)
 
 </div>
